@@ -1,0 +1,11 @@
+                     Title  Release Year  IMDb
+15285     Better Call Saul        2015.0   8.7
+11364  Gomorra -  La serie        2016.0   8.7
+2112          Line of Duty        2012.0   8.7
+15124         Line of Duty        2012.0   8.7
+13440        Young Justice        2010.0   8.6
+13684            Wentworth        2013.0   8.6
+14477           The Bridge        2011.0   8.6
+9410            MINDHUNTER        2017.0   8.6
+10860       The Green Mile        1999.0   8.6
+4424   Gods Little Village        2004.0   8.6

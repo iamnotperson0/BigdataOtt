@@ -1,0 +1,11 @@
+                                       Title  Release Year  IMDb
+1334                          Jujutsu Kaisen        2020.0   8.7
+4336                  The Promised Neverland        2019.0   8.7
+5837          Demon Slayer: Kimetsu no Yaiba        2021.0   8.7
+11183                        Stranger Things        2016.0   8.7
+10388                    Scarlet Heart: Ryeo        2016.0   8.7
+15429  The Lord of the Rings: The Two Towers        2002.0   8.7
+7027      Guardian: The Lonely and Great God        2016.0   8.6
+14934                       Naruto Shippuden        2009.0   8.6
+15174                      Marvels Daredevil        2015.0   8.6
+11515                          Spirited Away        2003.0   8.6

@@ -1,0 +1,7 @@
+                        Title  Release Year  IMDb
+15139  Walking with Dinosaurs        2000.0   8.5
+13937              Braveheart        1995.0   8.3
+14353                  Gandhi        1983.0   8.0
+14107                   Glory        1990.0   7.8
+7272       The Official Story        1985.0   7.7
+13386               Apollo 13        1995.0   7.6

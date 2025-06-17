@@ -1,0 +1,11 @@
+                          Title  Release Year  IMDb
+12455  Mr. Bean: The Whole Bean        1992.0   8.5
+14511  The Adventures of Tintin        1991.0   8.3
+15284     SpongeBob SquarePants        1999.0   8.2
+11511        My Neighbor Totoro        1990.0   8.2
+326               Sesame Street        1969.0   8.1
+13460       Fiddler on the Roof        1971.0   8.0
+3946          Castle in the Sky        1991.0   8.0
+15059            The Iron Giant        1999.0   8.0
+3628       Whisper of the Heart        1996.0   7.9
+13662         Digimon Adventure        1999.0   7.9

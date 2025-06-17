@@ -1,0 +1,11 @@
+                      Title  Release Year  IMDb
+11170             Slam Dunk        1993.0   8.7
+9245                 Lagaan        2001.0   8.1
+15200       Captain Tsubasa        2001.0   7.8
+8326     Dogtown and Z-Boys        2002.0   7.7
+9594         Beyond the Mat        2000.0   7.6
+9352        Field of Dreams        1989.0   7.5
+6839   The Prince of Tennis        2001.0   7.5
+13720                  Rudy        1993.0   7.5
+13588  Triumph of the Heart        1991.0   7.4
+14675        Innocent Moves        1993.0   7.4

@@ -1,0 +1,11 @@
+                            Title  Release Year  IMDb
+4336       The Promised Neverland        2019.0   8.7
+2112                 Line of Duty        2012.0   8.7
+15124                Line of Duty        2012.0   8.7
+11183             Stranger Things        2016.0   8.7
+6981   The Haunting of Hill House        2018.0   8.6
+11515               Spirited Away        2003.0   8.6
+10860              The Green Mile        1999.0   8.6
+14477                  The Bridge        2011.0   8.6
+11177                      Erased        2016.0   8.5
+593                        Spiral        2005.0   8.5

@@ -1,0 +1,11 @@
+                       Title  Release Year  Hidden Gem Score
+900           My Dog Dou Dou        2012.0          4.767504
+742         Melbourne Rewind        2016.0          4.764965
+1444                    Saem        2017.0          4.761885
+5619        Losers Adventure        2017.0          4.752024
+4455              Legal High        2019.0          4.750228
+3190            Project Papa        2018.0          4.746872
+3339                 Valeria        2009.0          4.746872
+13177           Mashas Tales        2004.0          4.743276
+13101  Mashas Spooky Stories        2004.0          4.743276
+1921          Sweet Munchies        2020.0          4.733703
